@@ -17,6 +17,7 @@ This repo is a copy of GOV.UK Prototype Kit version 13.
 
 ## Notes
 Validating Customer Application Data was previously known as Data Schema. 
+
 For any questions regarding this prototype please contact Romani Davies or Martina Fuchs. 
 
 
